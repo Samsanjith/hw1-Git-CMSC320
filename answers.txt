@@ -1,2 +1,7 @@
+Question 1: What is the difference between a merge and a rebase?
+A merge brings the ends of two branches together while a rebase brings the
+entire branch "in front" of another branch. Both work to incorporate two 
+different branches.
+
 Question 2: What is a remote repository?
 A remote repository is an online-hosted version of your project.
